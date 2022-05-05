@@ -1,0 +1,41 @@
+body{
+    background-color:lightpink;
+    text-align:center;
+  }
+  #h1{
+     font-variant:small-caps;
+    font-size:60px; 
+  }
+  #h2{
+      font-variant: monospace;
+      font-size: 40px;
+  }
+  #Para1{
+      font-family: inherit;
+  }
+  #Para2{
+      font-family: inherit;
+  }
+  #Para3{
+      font-family: inherit;
+  }
+  #Para4{
+      font-family: inherit;
+  }
+  #Para5{
+      font-family: inherit;
+  }
+  #Para6{
+      font-family: inherit;
+  }
+  #Para7{
+      font-family: inherit;
+  }
+  #Para8{
+      font-family: inherit;
+  }
+  
+  #Last{
+      font-family: cursive;
+      font-size: 50px;
+  }
